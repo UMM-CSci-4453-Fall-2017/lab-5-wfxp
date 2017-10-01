@@ -2,6 +2,9 @@
 
 This lab will introduce some more advanced features of SQL and then proceed to introduce Dynamic Columns, and introduct a couple of data exchange formats (JSON and XML).  In addition, by request, we are going to revisit the coordinated subquery idea.
 
+## What is WFXP 
+WFXP is a local fox station for Pennsylavian's Northwest Region. Found out more about them [here](https://en.wikipedia.org/wiki/WFXP). 
+
 ## Table of Contents
 
 - [Lab5: Views, Constraints, Procedures, Dynamic Columns, JSON and XML](#lab5-views-constraints-procedures-dynamic-columns-json-and-xml)
